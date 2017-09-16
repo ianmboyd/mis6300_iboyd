@@ -1,4 +1,4 @@
-select TOP(1000) 
+select 
 s.SalesOrderID, 
 s.OrderQty, 
 s.ProductID, 
